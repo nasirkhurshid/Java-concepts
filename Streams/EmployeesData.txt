@@ -1,0 +1,14 @@
+Employees Data:
+
+Name: Ali
+Employee ID: 1
+CNIC: 55441254789654
+Designation: Assistant Professor
+Department: CS
+
+Name: Ahmad
+Employee ID: 2
+CNIC: 55412369782587
+Designation: Associate Professor
+Department: CS
+

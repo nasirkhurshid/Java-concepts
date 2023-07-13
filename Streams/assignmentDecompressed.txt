@@ -1,0 +1,10 @@
+Assignment No 2.
+18/11/2022
+1)	Compile and run all programs in slides from lecture 5 to 7.
+2)	Write a java program to illustrate following concepts:
+a.	Copy a file with/without Buffered stream and compare performance in terms of time and CPU usage.
+b.	Extract a specific file from zip file and save this file into a folder. In the end, read contents of the file using any input stream.  
+3)	Your task is to store and read employee record such as name, empID, CNIC, designation and department into a file. Implement this by using following:
+a.	Object Streams
+b.	Random Access File
+c.	Simple File
